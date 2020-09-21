@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  webserver:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-09-21T18:59:10.950291413+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 4789da4ce63cfeacccedb96c690980fb660e8ae724ee4bc9f53cf6ce75b59770
+    name: webserver
+    type: application
+    urls:
+    - https://github.com/satenderruhil/helm_as/webserver-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-09-21T18:59:10.949790806+05:30"
